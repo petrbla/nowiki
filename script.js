@@ -1,4 +1,4 @@
-/* Add Note buttons to the toolbar */
+/* Add NoWiki buttons to the toolbar */
 /* from http://wiki.splitbrain.org/wiki:tips:toolbarbutton */
 
 if(toolbar){ 
